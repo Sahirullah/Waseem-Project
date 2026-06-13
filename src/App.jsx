@@ -921,12 +921,12 @@ function App() {
                 <p className="contact-item">
                   <span className="contact-label">🕐</span>
                   <span className="contact-title">Opening Hours:</span>
-                  <span>Mon - Sat: 10:00 AM - 4:00 PM</span>
+                  <span>24 Hours Service</span>
                 </p>
                 <p className="contact-item">
                   <span className="contact-label">📞</span>
                   <span className="contact-title">Phone Call:</span>
-                  <span>208-6666-0112, 308-5555-0113</span>
+                  <span>+923130907441</span>
                 </p>
               </div>
             </div>
